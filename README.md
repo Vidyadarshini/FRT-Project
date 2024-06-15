@@ -2,7 +2,7 @@
 The Online Doctor Appointment and Treatment App called Midic is a user-friendly platform designed to streamline the process of booking medical appointments, provide virtual consultations, and manage medical records. By leveraging Azure's cloud services, the app ensures scalability, reliability, and security.
 
 # Website link: https://vidyadarshini.github.io/FRT-Project/
-# Home work
+# Home page
 ![image](https://github.com/Vidyadarshini/FRT-Project/assets/97736432/e9b19264-b616-4ecd-8e1b-655e1e270e91)
 ![image](https://github.com/Vidyadarshini/FRT-Project/assets/97736432/4a17fc44-4516-41ee-912c-38fde7a62cb3)
 ![image](https://github.com/Vidyadarshini/FRT-Project/assets/97736432/f2796d40-1757-421a-ae12-0d1095e1d89a)
